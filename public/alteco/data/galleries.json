@@ -1,0 +1,159 @@
+[
+    {
+      "name" : "Food",
+      "images" : [
+        {
+            "src": "./images/food/food-1.jpg",
+            "alt": "banana"
+          },
+          {
+            "src": "./images/food/food-2.jpg",
+            "alt": "lemons"
+          },
+          {
+            "src": "./images/food/food-3.jpg",
+            "alt": "cherries"
+          },
+          {
+            "src": "./images/food/food-4.jpg",
+            "alt": "orange"
+          },
+          {
+            "src": "./images/food/food-5.jpg",
+            "alt": "melon"
+          },
+          {
+            "src": "./images/food/food-6.jpg",
+            "alt": "avacado"
+          },
+          {
+            "src": "./images/food/food-7.jpg",
+            "alt": "blueberries"
+        }
+      ]
+    },
+    {
+      "name" : "Mountains",
+      "images" : [
+          {
+            "src": "./images/mountains/mountain-1.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-2.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-3.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-4.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-5.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-6.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-7.jpg",
+            "alt": "Mountain scene"
+          }
+      ]
+    } ,
+    {
+      "name": "alteco",
+      "images": [
+        {
+          "src": "./images/alteco/alteco (1).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (2).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (3).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (4).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (5).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (6).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (7).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (8).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (9).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (10).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (11).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (12).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (13).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (14).jpg",
+          "alt": "alteco"
+        },
+        {
+          "src": "./images/alteco/alteco (15).jpg",
+          "alt": "alteco"
+        }
+      ]
+    }
+,
+    {
+      "name" : "Plants",
+      "images" : [
+          {
+            "src": "./images/plants/plant-1.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-2.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-3.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-4.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-5.jpg",
+            "alt": "house plant"
+          }
+      ]
+    }
+  ]
