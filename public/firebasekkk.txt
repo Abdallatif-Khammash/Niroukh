@@ -1,3 +1,0 @@
-C:\Windows\System32>cd /d F:\#firebase websites\##firas
-
-firebase deploy
